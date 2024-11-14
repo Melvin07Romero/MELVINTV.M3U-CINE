@@ -36,3 +36,6 @@ http://181.78.27.128:8000/play/a032/index.m3u8
 
 #EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkY_pz-U-s-wPzhla2iUJtVwIMaHPlrSYJCJSgfqndUg&s; group-title=&quot;Premium&quot;, SONY MOVIES
 http://tvlatino.club:2082/live/YKb44BNfjaAg/Z6GRGPUMT3R4/184658.ts
+
+#EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSu1XXx7A65Npz_StMdpnwI4o-bP_Cj8bOsz0jgPzb9iQ&s; group-title=&quot;Premium&quot;, FOX
+http://streamsy.online:2999/live/happy2024/newyear/19.m3u8
