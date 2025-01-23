@@ -20,7 +20,7 @@ http://181.78.27.128:8000/play/a028/index.m3u8
 http://181.78.27.128:8000/play/a02f/index.m3u8
 
 #EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzfDGCY6auxSpgf-Oo8ZyK2e7ZjG_zWnU5aEC6r4fEwkNAbR7faSqdYNQ&s; group-title=&quot;Premium&quot;, UNIVERSAL CINEMA OPCIÓN 2
-http://74.208.182.72:8080/live/Ricardo3/Ricardo3/1077.ts
+http://fastream.xyz:8080/live/997025871tv/5e7f8s6/65200.ts
 
 #EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_O0zN0zRqQUSjWCsbz1eF3x3w3TQLNuVgMLYAh_CPIA&s; group-title=&quot;Premium&quot;, WARNER TV
 http://twomonkeys.live:8080/live/1yearplus/12345678/1070664.ts
