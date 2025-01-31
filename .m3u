@@ -28,14 +28,14 @@ http://twomonkeys.live:8080/live/1yearplus/12345678/1070664.ts
 #EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjjzFznBvlv5Xt7UQ-EuNDHLDuGaVppmroSrwHgFMB6g&s; group-title=&quot;Premium&quot;, WARNER TV OPCIÓN 2
 http://181.78.27.128:8000/play/a03m/index.m3u8
 
-#EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOP93vKEKNaDV42TnsjFjT2DeFuFud5RrqQfD2Kxgog&s; group-title=&quot;Premium&quot;, SONY 
-http://canal-pro.xyz:8080/live/936299452tv/949e76/199.ts
+#EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOP93vKEKNaDV42TnsjFjT2DeFuFud5RrqQfD2Kxgog&s; group-title=&quot;Premium&quot;, SONY CINE
+http://twomonkeys.live:8080/live/1yearplus/12345678/585511.ts
 
-#EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsftkLuxtfuf9H_VSyVHy177TqUgjQKKA9gNXNZffrNVNqd5W60Y7YVg&s; group-title=&quot;Premium&quot;, SONY OPCIÓN 2
+#EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlsftkLuxtfuf9H_VSyVHy177TqUgjQKKA9gNXNZffrNVNqd5W60Y7YVg&s; group-title=&quot;Premium&quot;, SONY
 http://181.78.27.128:8000/play/a032/index.m3u8
 
-#EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkY_pz-U-s-wPzhla2iUJtVwIMaHPlrSYJCJSgfqndUg&s; group-title=&quot;Premium&quot;, SONY OPCIÓN 3
-http://twomonkeys.live:8080/live/1yearplus/12345678/585511.ts
+#EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkY_pz-U-s-wPzhla2iUJtVwIMaHPlrSYJCJSgfqndUg&s; group-title=&quot;Premium&quot;, SONY OPCIÓN 2
+http://canal-pro.xyz:8080/live/936299452tv/949e76/199.ts
 
 #EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkY_pz-U-s-wPzhla2iUJtVwIMaHPlrSYJCJSgfqndUg&s; group-title=&quot;Premium&quot;, SONY MOVIES
 http://ultra-latino.com:8080/live/lamolecr/MXMAH/469055.ts
