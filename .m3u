@@ -55,5 +55,5 @@ https://telecorporacion-es.cdn.vustreams.com/live/5d245474-cad2-47bc-b605-ad04c6
 #EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnKvOSMOpJDjiEhrMRDExoqm0DtM6VhSbr9Q&usqp=CAU; group-title=&quot;Premium&quot;, TIGO SPORTS EL SALVADOR EVENTOS
 https://channel03.tigosports.com.sv/out/v1/31f36d52d558475ca18799d8ca5e4b40/index_5.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hvokB_yBV_4SxHqqLAJbKOjYlX-qESetqngqpUM7rg&s"  group-title="ESTADOS UNIDOS", TUDN USA
+#EXTINF:-1 tvg-logo=&quot;https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hvokB_yBV_4SxHqqLAJbKOjYlX-qESetqngqpUM7rg&s; group-title=&quot;Premium&quot;, TUDN USA
 https://dai.google.com/linear/hls/event/LKaz-eTgQvawHshATl-Qdw/master.m3u8
